@@ -1,0 +1,7 @@
+- [code] re.search(r'(\\w+)\\(', s).group(1) 提取函数名  (2026-05-29)
+- [code] re.search(r'(\\w+)\\(', s).group(1) 提取函数名  (2026-05-29)
+- [code] json.loads(s) / json.dump(data, f, ensure_ascii=False, indent=2)  (2026-05-29)
+- [concept] os.environ.get("KEY") 安全取环境变量  (2026-05-29)
+- [concept] dict(re.findall(r'(\w+)="([^"]*)"', s)) 解析键值对参数  (2026-05-29)
+- [concept] json.loads(s) 套 try/except 避免空字符串崩溃  (2026-05-29)
+- [concept] with open(file, "r/w", encoding="utf-8") as f: 文件读写  (2026-05-29)
